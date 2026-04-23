@@ -1,5 +1,0 @@
-{"timestamp":"00:00:04.286","source":"Server","level":"LOG","message":""}
-{"timestamp":"00:00:05.197","source":"Server","level":"ERROR","message":"Invalid DOM property `clip-path`. Did you mean `clipPath`?"}
-{"timestamp":"00:00:05.200","source":"Server","level":"ERROR","message":"Invalid DOM property `fill-rule`. Did you mean `fillRule`?"}
-{"timestamp":"00:00:05.200","source":"Server","level":"ERROR","message":"Invalid DOM property `clip-rule`. Did you mean `clipRule`?"}
-{"timestamp":"00:00:05.847","source":"Server","level":"WARN","message":"⚠ Blocked cross-origin request to Next.js dev resource /_next/webpack-hmr from \"192.168.10.120\".\nCross-origin access to Next.js dev resources is blocked by default for safety.\n\nTo allow this host in development, add it to \"allowedDevOrigins\" in next.config.js and restart the dev server:\n\n// next.config.js\nmodule.exports = {\n  allowedDevOrigins: ['192.168.10.120'],\n}\n\nRead more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins"}
