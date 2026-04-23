@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\n  \"app\": {\n    \"[project]/Documents/redtag/src/app/page\": [\n      \"static/media/Gibson_Regular-s.p.0yjmdekyaw9q6.woff2\",\n      \"static/media/Gibson_SemiBold-s.p.0lc9a2si5r3d2.woff2\"\n    ]\n  },\n  \"appUsingSizeAdjust\": true,\n  \"pages\": {},\n  \"pagesUsingSizeAdjust\": false\n}"
